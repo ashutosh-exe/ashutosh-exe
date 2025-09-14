@@ -8,9 +8,11 @@ I'm a student developer passionate about building cool things with code. Whether
 
 ### My Skills
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Dicord](https://skillicons.dev/icons?i=discord)
 
 
 
@@ -23,7 +25,7 @@ I'm a student developer passionate about building cool things with code. Whether
 
 ### A Little More About Me
 
--   🌱 I'm currently expanding my knowledge in Data Structues and Algorithms.
+-   🌱 I'm currently expanding my knowledge in Data Structures and Algorithms.
 -   💬 Ask me about Python, Java, or anything related to development.
 -   ⚡ Fun fact: I enjoy playing baseketball and video games.
 
