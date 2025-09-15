@@ -3,7 +3,7 @@
 
 ### 👋 Hey, I'm Ashutosh Singh!
 
-I'm a student developer passionate about building cool things with code. Whether it's crafting a new web application or solving problems with Python, I love bringing ideas to life through code.
+I'm a student developer passionate about building cool things with code. Whether it's crafting a new web application or solving problems with Python or Java, I love bringing ideas to life through code.
 
 
 ### My Skills
@@ -27,7 +27,7 @@ I'm a student developer passionate about building cool things with code. Whether
 
 -   🌱 I'm currently expanding my knowledge in Data Structures and Algorithms.
 -   💬 Ask me about Python, Java, or anything related to development.
--   ⚡ Fun fact: I enjoy playing baseketball and video games.
+-   ⚡ Fun fact: I enjoy playing basketball and video games.
 
 <!--
 **ashutosh-exe/ashutosh-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
