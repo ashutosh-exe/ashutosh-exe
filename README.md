@@ -44,6 +44,8 @@
 
 ---
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-exe&theme=merko)
+
 ## 📫 Get In Touch
 
 Feel free to reach out—I'm always open to discussing development, collaboration, or a quick chat about basketball!
@@ -51,3 +53,6 @@ Feel free to reach out—I'm always open to discussing development, collaboratio
 - **Email:** `ashutoshsingh200427@gmail.com`
 - **Discord:** `ashutosh147`
 - **Connect:** [![LinkedIn Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashutosh-singh-11b4ab332)
+
+
+![](https://komarev.com/ghpvc/?username=ashutosh-exe&abbreviated=true)
