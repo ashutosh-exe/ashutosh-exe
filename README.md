@@ -29,6 +29,9 @@ I'm a student developer passionate about building cool things with code. Whether
 -   💬 Ask me about Python, Java, or anything related to development.
 -   ⚡ Fun fact: I enjoy playing basketball and video games.
 
+### Reach me Out
+-      ashutoshsingh200427@gmail.com
+
 <!--
 **ashutosh-exe/ashutosh-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
