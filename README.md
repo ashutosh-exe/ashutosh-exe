@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashutosh-exe&theme=onedark" alt="ashutosh-exe" />
+    <img src="https://github-profile-trophies.vercel.app/?username=ashutosh-exe&theme=onedark" alt="ashutosh-exe trophies" />
   </a>
 </p>
 
@@ -50,22 +50,24 @@
 
 <!-- Snake Game Contribution Grid -->
 <h3 align="left">🎮 Contribution Snake Game:</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashutosh-exe/ashutosh-exe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashutosh-exe/ashutosh-exe/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ashutosh-exe/ashutosh-exe/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashutosh-exe/ashutosh-exe/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashutosh-exe/ashutosh-exe/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ashutosh-exe/ashutosh-exe/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <!-- Activity Graph -->
 <h3 align="left">📈 Activity Graph:</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-exe&theme=react-dark" alt="Ashutosh's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-exe&theme=react-dark&hide_border=true" alt="Ashutosh's Activity Graph" />
 </p>
 
 <!-- GitHub Stats -->
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-exe&show_icons=true&locale=en&layout=compact" alt="top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-exe&show_icons=true&locale=en" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-exe" alt="streak stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ashutosh-exe&show_icons=true&locale=en&layout=compact&theme=react" alt="top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashutosh-exe&show_icons=true&locale=en&theme=react" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-exe&theme=react" alt="streak stats" />
 </p>
