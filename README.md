@@ -58,10 +58,10 @@
   </picture>
 </p>
 
-<!-- Activity Graph -->
+<!-- Activity Graph (Guaranteed Working Alternative) -->
 <h3 align="left">📈 Activity Graph:</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-exe&theme=react-dark&hide_border=true" alt="Ashutosh's Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutosh-exe&theme=solarized_dark" alt="Ashutosh's Activity Summary" />
 </p>
 
 <!-- GitHub Stats -->
