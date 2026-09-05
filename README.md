@@ -1,58 +1,71 @@
-<h1 align="center">👋 Hello World! I'm Ashutosh Singh, a Student Developer.</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh</h1>
+<h3 align="center">Just a guy trying to fit in.</h3>
 
 <p align="center">
-  Building cool things with code and tackling challenges one commit at a time.
+  <img src="https://komarev.com/ghpvc/?username=ashutosh-exe&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-exe" />
 </p>
 
----
-![Coding Illustration GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNnNnN6YjB5cThjM3VsazV1c2F5aWRncDJ0dW43NmtwdmM0Y2R0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
-
----
-
-
-## 🛠️ My Tech Stack
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) |
-| **Tools & Platforms** | ![VS Code](https://skillicons.dev/icons?i=vscode) ![GitHub](https://skillicons.dev/icons?i=github) ![Discord](https://skillicons.dev/icons?i=discord) |
-
----
-
-## 🚀 What I'm Up To
-
-- **Currently Mastering:** **Data Structures and Algorithms (DSA)** and foundational concepts in **Operating Systems (OS)**.
-- **Diving Into:** The world of **Data Science** using Python libraries like Pandas and NumPy.
-- **Building:** Personal projects in Python and Java to bring ideas to life.
-- **Solving:** Daily coding challenges on platforms like LeetCode to sharpen my problem-solving skills.
-- 👯 **Looking to Collaborate:** Open to contributing to interesting **open-source projects**.
-
----
-
-## 💡 A Little More About Me
-
-- 💬 **Ask me about:** Python, Java, Data Science basics, or anything related to development.
-- ⚡ **Fun Fact:** When I'm not coding, you can find me on the court playing **basketball** or diving into a **video game**.
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-exe&show_icons=true&theme=dark" alt="Ashutosh's GitHub Stats"/>
-  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashutosh-exe&theme=onedark" alt="ashutosh-exe" />
+  </a>
+</p>
 
----
+- 🔭 I’m currently working on **sharpening my skills.**
+- 🌱 I’m currently learning **DevOps and ML.**
+- 👯 I’m looking to collaborate on **real-world projects with cool tech.**
+- 📫 How to reach me: **ashutoshsingh200427@gmail.com**
+- ⚡ Fun fact: **I can't live without playing basketball.**
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-exe&theme=merko)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/ashutosh-singh-11b4ab332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-singh-11b4ab332" height="30" width="40" /></a>
+  <a href="https://kaggle.com/ashutosh2227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashutosh2227" height="30" width="40" /></a>
+  <a href="https://instagram.com/_ashutosh_singh27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashutosh_singh27" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/ashutosh2227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashutosh2227" height="30" width="40" /></a>
+  <a href="https://discord.gg/ashutosh147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ashutosh147" height="30" width="40" /></a>
+</p>
 
-## 📫 Get In Touch
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> 
+</p>
 
-Feel free to reach out—I'm always open to discussing development, collaboration, or a quick chat about basketball!
+<!-- Snake Game Contribution Grid -->
+<h3 align="left">🎮 Contribution Snake Game:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashutosh-exe/ashutosh-exe/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashutosh-exe/ashutosh-exe/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ashutosh-exe/ashutosh-exe/output/github-contribution-grid-snake.svg">
+</picture>
 
-- **Email:** `ashutoshsingh200427@gmail.com`
-- **Discord:** `ashutosh147`
-- **Connect:** [![LinkedIn Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashutosh-singh-11b4ab332)
+<!-- Activity Graph -->
+<h3 align="left">📈 Activity Graph:</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-exe&theme=react-dark" alt="Ashutosh's Activity Graph" />
+</p>
 
-
-![](https://komarev.com/ghpvc/?username=ashutosh-exe&abbreviated=true)
+<!-- GitHub Stats -->
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-exe&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-exe&show_icons=true&locale=en" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-exe" alt="streak stats" />
+</p>
