@@ -2,7 +2,7 @@
 <h3 align="center">Just a guy trying to fit in.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashutosh-exe&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-exe" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashutosh-exe.ashutosh-exe" alt="Profile views" />
 </p>
 
 <p align="center">
