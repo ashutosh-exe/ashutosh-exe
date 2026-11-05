@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **DevOps and ML.**
 - 👯 I’m looking to collaborate on **real-world projects with cool tech.**
 - 📫 How to reach me: **ashutoshsingh200427@gmail.com**
-- ⚡ Fun fact: **I can't live without playing basketball.**
+- ⚡ Fun fact: **I can hoop.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
