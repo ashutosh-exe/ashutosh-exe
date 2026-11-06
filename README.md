@@ -71,3 +71,10 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashutosh-exe&show_icons=true&locale=en&theme=react" alt="github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-exe&theme=react" alt="streak stats" />
 </p>
+
+<a href="https://gitscore.live/ashutosh-exe">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/ashutosh-exe?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/ashutosh-exe?style=card" alt="GitScore for ashutosh-exe" />
+  </picture>
+</a>
